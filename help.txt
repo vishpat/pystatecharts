@@ -1,0 +1,6 @@
+Inorder to understand how to use this framework please
+refer to the unittests (unittests.py) for examples.
+
+There are currently three statecharts implemented and tested
+as a part of the unittests. The visual representation of
+each of these can be found under the images/unittests directory.
